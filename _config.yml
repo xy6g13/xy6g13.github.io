@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : “Xiaolong Yu / Personal Page”
-title_separator          : "Dr. Xiaolong Yu"
+title                    : “Personal Page”
+title_separator          : ""
 name                     : &name “Xiaolong Yu”
 description              : &description "I am a postdoc at Ifremer with background of physical oceanography"
 url                      : https://xy6g13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
