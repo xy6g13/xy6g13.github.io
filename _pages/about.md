@@ -1,14 +1,8 @@
 ---
-permalink: /about/
+permalink: /
 title: "About me"
 excerpt: "About me"
-gallery:
-  - url: /assets/photos/Antarctica.jpg
-    image_path: /assets/photos/Antarctica.jpg
-    alt: "Antarctica"
-    title: "Antarctica"
 author_profile: true
-class: wide
 redirect_from: 
   - /about/
   - /about.html
@@ -16,8 +10,7 @@ redirect_from:
 
 I am a postdoc researcher in Laboratoire d'Océanographie Physique et Spatiale (LOPS) at Ifremer, France. Before that, I obtained my PhD in the University of Southampton, UK. My research focuses on upper-ocean dynamics associated with a wide range of processes, from geostrophically balanced mesoscale eddies, submesoscale unstable instabilities to unbalanced inertia-gravity waves. I mainly use in situ observations collected from moorings, surface drifters and satellite altimeters, and simulations from realistic and idealized numerical models. 
 
-{% include figure image_path="/assets/photos/Antarctica.jpg" 
-alt="Antarctica" %}
+![](Antarctica.jpg)
 
 
 **Publications:**
