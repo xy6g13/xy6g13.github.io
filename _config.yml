@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : “Personal Page”
+locale                   : "en-GB"
+title                    : “Xiaolong Yu”
 title_separator          : ""
 name                     : &name “Xiaolong Yu”
 description              : &description "I am a postdoc at Ifremer with background of physical oceanography"
