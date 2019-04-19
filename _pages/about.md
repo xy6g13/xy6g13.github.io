@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: "About me"
 excerpt: "About me"
 gallery:
@@ -8,6 +8,7 @@ gallery:
     alt: "Antarctica"
     title: "Antarctica"
 author_profile: true
+class: wide
 redirect_from: 
   - /about/
   - /about.html
