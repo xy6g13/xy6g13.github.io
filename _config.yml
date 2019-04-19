@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   #name             : #"Xiaolong Yu"
-  #avatar           : #"Photo_1.JPG"
+  avatar           : "Photo_1.JPG"
   bio              : "Postdoc at Ifremer"
   location         : "Brest, France"
   employer         :
