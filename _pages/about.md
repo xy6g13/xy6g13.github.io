@@ -12,7 +12,7 @@ I am a postdoc researcher in Laboratoire d'Océanographie Physique et Spatiale (
 
 # Employment
 
-Postdoc in Ifremer, France 2018.04 - present
+Postdoc at Ifremer, France, 2018.04 - present
 
 # Education
 
