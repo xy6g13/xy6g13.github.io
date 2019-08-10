@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-![me](Brest.jpeg)
+
 Education
 ======
 - PhD in Physical Oceanography, Univeristy of Southampton, UK, 2013.10 - 2018.01
@@ -23,3 +23,4 @@ Work experience
 ======
 - Postdoc at Ifremer, France, 2018.04 - present
 
+![me](Brest.jpeg)
