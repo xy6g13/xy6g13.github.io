@@ -9,8 +9,7 @@ redirect_from:
 
 
 
-<img src="Brest.jpeg" alt="drawing" width="650"/>
-
+![me](Brest.jpeg)
 Education
 ======
 - PhD in Physical Oceanography, Univeristy of Southampton, UK, 2013.10 - 2018.01
