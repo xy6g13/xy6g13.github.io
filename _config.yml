@@ -71,7 +71,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/XiaolongYu5"
 
 
 # Analytics
@@ -90,10 +89,7 @@ author:
   employer         :
   email            : "xiaolong.yu@ifremer.fr"
   github           : "xy6g13"
-  links:
-   - label: "Twitter"
-     icon: "fab fa-fw fa-twitter-square"
-     url: "https://twitter.com/XiaolongYu5"
+
 
 
 # Reading Files
@@ -180,7 +176,30 @@ defaults:
       comments: true
       share: true
       related: true
-  
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
@@ -209,7 +228,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
 
 
 # Archives
@@ -247,5 +265,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
