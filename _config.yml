@@ -91,9 +91,9 @@ author:
   email            : "xiaolong.yu@ifremer.fr"
   github           : "xy6g13"
   links:
-        - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/XiaolongYu5"
+   - label: "Twitter"
+     icon: "fab fa-fw fa-twitter-square"
+     url: "https://twitter.com/XiaolongYu5"
 
 
 # Reading Files
