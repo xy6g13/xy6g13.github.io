@@ -14,6 +14,6 @@ I am a postdoc researcher in Laboratoire d'Océanographie Physique et Spatiale (
 [//]: # (<img src="xyu.pdf" width="650"/>)
 
 [//]: # (![me](xyu.pdf))
-![me](xyu.pdf){:height="100px" width="400px"}
+![me](xyu.pdf)
 
-{% include figure image_path="images/Photo_1.JPG" alt="morocco" %}
+{% include figure image_path="xyu.pdf" alt="morocco" %}
