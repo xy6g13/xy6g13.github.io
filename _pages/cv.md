@@ -9,6 +9,7 @@ redirect_from:
 
 
 
+![me](Brest.jpeg)
 
 Education
 ======
@@ -23,4 +24,3 @@ Work experience
 ======
 - Postdoc at Ifremer, France, 2018.04 - present
 
-![me](Brest.jpeg)
