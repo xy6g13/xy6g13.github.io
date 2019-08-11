@@ -14,4 +14,3 @@ I am a postdoc researcher in Laboratoire d'Océanographie Physique et Spatiale (
 [//]: # (<img src="xyu.pdf" width="650"/>)
 
 ![me](xyu.pdf)
-<img src="xyu.pdf" width="650"/>
