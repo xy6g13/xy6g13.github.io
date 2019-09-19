@@ -16,7 +16,7 @@ Education
 
 - MSc in Physical Oceanography, Xiamen University, China, 2010.09 - 2013.06
 
-- PhD in Physical Oceanography, Univeristy of Southampton, UK, 2013.10 - 2018.01
+- PhD in Physical Oceanography, University of Southampton, UK, 2013.10 - 2018.01
 
 
 Work experience
