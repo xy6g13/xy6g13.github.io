@@ -24,6 +24,9 @@ Numerical simulations suggest that submesoscale turbulence may transform lateral
 
 {% include gallery id="gallery1" %}
 
+Mooring site            |  vertical buoyancy flux
+:-------------------------:|:-------------------------:
+![](aa.png)  |  ![](bb.png)
 
 
 
