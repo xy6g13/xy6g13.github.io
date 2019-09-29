@@ -9,7 +9,7 @@ urlcolor: blue
 
 
 
-1. **Yu, X.**, A. C. Naveira Garabato, A. P. Martin, The annual cycle of upper-ocean potential vorticity and its relationship to submesoscale instabilities, in preparation for *Journal of Physical Oceanography*. 
+1. **Yu, X.**, A. C. Naveira Garabato, A. P. Martin, The annual cycle of upper-ocean potential vorticity and its relationship to submesoscale instabilities, in preparation. 
 2.  Erickson, Z. K., A. F. Thompson, J. Callies, **X. Yu**, A. C. Naveira Garabato, P. Klein, The vertical structure of open-ocean submesoscale variability during a full seasonal cycle, 2019, *Journal of Physical Oceanography*, under minor revision.
 3. **Yu, X.**, A. C. Naveira Garabato, A. P. Martin, D. G. Evans, Z. Su, Wind-forced symmetric instability at a transient mid-ocean front, 2019, *Geophysical Research Letters*, 46. <https://doi.org/10.1029/2019GL084309>
 4. **Yu, X.**, A. Ponte, S. Elipot, D. Menemenlis, E. Zaron, R. Abernathey, Surface kinetic energy distributions in the global oceans from a high-resolution numerical model and drifter observations, 2019, *Geophysical Research Letters*, 46. <https://doi.org/10.1029/2019GL083074>
