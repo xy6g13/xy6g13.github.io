@@ -20,6 +20,13 @@ Mooring site            |  vertical buoyancy flux
 ![](aa.png)  |  ![](bb.png)
 
 
+<h2>Observational evidence of symmetric instability</h2>
+
+we conduct a case study of a SI event in this mid‐ocean setting, based on four lines of direct observational evidence: (i) Upper‐ocean kinetic energy is enhanced during the SI event, as expected from the active development of a submesoscale instability; (ii) the event is associated with downfront winds and mesoscale frontogenesis, conditions that favor the onset of SI and that are regularly met in mid‐ocean environments; (iii) a shoaling of the mixed layer is observed, consistent with theoretical predictions for SI; and (iv) dissipation is elevated in a manner quantitatively consistent with SI extracting kinetic energy from the background flow, which is broadly in geostrophic balance.
+
+The transient front            |  Enhanced dissipation
+:-------------------------:|:-------------------------:
+![](grl59569-fig-0001-m.jpg)  |  ![](grl59569-fig-0004-m.jpg)
 
 <h2>More coming soon...</h2>
 
