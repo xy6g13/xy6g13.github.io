@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in Laboratoire d'Océanographie Physique et Spatiale (LOPS) at Ifremer, Brest, France. Before that, I obtained my PhD in the University of Southampton, UK. My research focuses on upper-ocean dynamics associated with a wide range of processes, from geostrophically balanced mesoscale eddies, submesoscale unstable fronts to unbalanced inertia-gravity waves. I mainly use in situ observations collected from moorings, seagliders, surface drifting buoys and satellite altimeters, and simulation outputs from tide- and eddy-resolving high-resolution ocean models. 
+I am a postdoctoral researcher at Laboratoire d'Océanographie Physique et Spatiale (LOPS) in Ifremer, Brest, France. Before that, I obtained my PhD in the University of Southampton, UK. My research focuses on upper-ocean dynamics associated with a wide range of processes, from geostrophically balanced mesoscale eddies, submesoscale unstable fronts to unbalanced inertia-gravity waves. I mainly use in situ observations collected from moorings, seagliders, surface drifting buoys and satellite altimeters, and simulation outputs from tide- and eddy-resolving high-resolution ocean models. 
 
 
 [//]: # (<img src="xyu.pdf" width="650"/>)
