@@ -7,15 +7,15 @@ classes: wide
 urlcolor: blue
 ---
 
-- In progress
+In progress
 ======
-10. **Yu, X.** and Ponte A. L., Geostrophy assessment and momentum balance of the global oceans in a tide- and eddy-resolving model, in preparation for *Journal of Geophysical Research: oceans*. 
+10. **Yu, X.** and Ponte A. L., Geostrophy assessment and momentum balance of the global oceans in a tide- and eddy-resolving model, in preparation for *Journal of Geophysical Research: Oceans*. 
 9. **Yu, X.**, Barkan, R., Naveira Garabato A. C., Enhanced submesoscale frontogenesis by convergent flows in the upper ocean, in preparation for *Geophysical Research Letters*. 
 8. Naveira Garabato, A. C., **Yu X.** et al., Kinetic energy transfers between mesoscale and submesoscale motions, in preparation for *Journal of Physical Oceanography*.
 7. Pan H., **Yu, X.**, Shi D., Yang S., Pan W., Ecological regionalization for the Beibu Gulf based on the MEC-NPZD model, submitted. 
-6. **Yu, X.**, Naveira Garabato A. C., Martin A. P. and Marshall D. P., The annual cycle of upper-ocean potential vorticity and its relationship to submesoscale instabilities, under minor revisions for *Journal of Physical Oceanography*.
+6. **Yu, X.**, Naveira Garabato A. C., Martin A. P. and Marshall D. P., The annual cycle of upper-ocean potential vorticity and its relationship to submesoscale instabilities, under 2nd revision for *Journal of Physical Oceanography*.
 
-- Published
+Published
 ======
 5. Erickson, Z. K., Thompson A. F., Callies J., **Yu X.**, Naveira Garabato A. C. and Klein P., The vertical structure of open-ocean submesoscale variability during a full seasonal cycle, 2020, *Journal of Physical Oceanography*, 50, 145-160. <https://doi.org/10.1175/JPO-D-19-0030.1>
 4. **Yu, X.**, Naveira Garabato A. C. , Martin A. P., Evans D. G. and Su Z., Wind-forced symmetric instability at a transient mid-ocean front, 2019, *Geophysical Research Letters*, 46, 11281-11291. <https://doi.org/10.1029/2019GL084309>
