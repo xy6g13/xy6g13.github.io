@@ -9,11 +9,10 @@ urlcolor: blue
 
 In progress
 ======
-10. **Yu, X.** and Ponte A. L., Geostrophy assessment and momentum balance of the global oceans in a tide- and eddy-resolving model, in preparation for *Journal of Geophysical Research: Oceans*. 
-9. **Yu, X.**, Barkan, R., Naveira Garabato A. C., Enhanced submesoscale frontogenesis by convergent flows in the upper ocean, in preparation for *Geophysical Research Letters*. 
-8. Naveira Garabato, A. C., **Yu X.** et al., Kinetic energy transfers between mesoscale and submesoscale motions, in preparation for *Journal of Physical Oceanography*.
-7. Pan H., **Yu, X.**, Shi D., Yang S., Pan W., Ecological regionalization for the Beibu Gulf based on the MEC-NPZD model, submitted. 
-6. **Yu, X.**, Naveira Garabato A. C., Martin A. P. and Marshall D. P., The annual cycle of upper-ocean potential vorticity and its relationship to submesoscale instabilities, under 2nd revision for *Journal of Physical Oceanography*.
+4. **Yu, X.** and Ponte A. L., Geostrophy assessment and momentum balance of the global oceans in a tide- and eddy-resolving model, in preparation for *Journal of Geophysical Research: Oceans*. 
+3. **Yu, X.**, Barkan, R., Naveira Garabato A. C., Enhanced submesoscale frontogenesis by convergent flows in the upper ocean, in preparation for *Geophysical Research Letters*. 
+2. Naveira Garabato, A. C., **Yu X.** et al., Kinetic energy transfers between mesoscale and submesoscale motions, in preparation for *Journal of Physical Oceanography*.
+1. **Yu, X.**, Naveira Garabato A. C., Martin A. P. and Marshall D. P., The annual cycle of upper-ocean potential vorticity and its relationship to submesoscale instabilities, revised for *Journal of Physical Oceanography*.
 
 Published
 ======
