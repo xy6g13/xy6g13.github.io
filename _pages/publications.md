@@ -9,7 +9,7 @@ urlcolor: blue
 
 In progress
 ======
-5. **Yu X.**, Ponte A. L., Lahaye N., Caspar-Cohen Z. and Menemenlis D., Geostrophy assessment and momentum balance of the global oceans in a tide- and eddy-resolving model, submitted to *Journal of Geophysical Research: Oceans*, ESSOAr preprint: <https://www.essoar.org/doi/abs/10.1002/essoar.10506653.1>
+5. **Yu X.**, Ponte A. L., Lahaye N., Caspar-Cohen Z. and Menemenlis D., Geostrophy assessment and momentum balance of the global oceans in a tide- and eddy-resolving model, submitted to *Journal of Geophysical Research: Oceans*, [ESSOAr preprint](https://www.essoar.org/doi/10.1002/essoar.10506653.1)
 4. Naveira Garabato A. C., **Yu X.**, Callies J., Barkan R., Polzin K., Frajka-Williams E., Buckingham C. and Griffies S., Kinetic energy transfers between mesoscale and submesoscale motions, submitted to *Journal of Physical Oceanography*.
 3. **Yu X.**, Barkan, R., Naveira Garabato A. C., Enhanced submesoscale frontogenesis by convergent flows in the upper ocean, in preparation for *Geophysical Research Letters*. 
 2. Caspar-Cohen Z., Ponte A. L., Lahaye N., Carton X., **Yu X.**, Le Gentil S., Characterization of internal tide non-stationarity: Eulerian versus Lagrangian perspectives, in preparation. 
