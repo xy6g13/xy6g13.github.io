@@ -11,13 +11,14 @@ In progress
 ======
 5. **Yu X.**, Ponte A. L., Lahaye N., Caspar-Cohen Z. and Menemenlis D., Geostrophy assessment and momentum balance of the global oceans in a tide- and eddy-resolving model, submitted to *Journal of Geophysical Research: Oceans*, [ESSOAr preprint](https://www.essoar.org/doi/10.1002/essoar.10506653.1)
 4. Naveira Garabato A. C., **Yu X.**, Callies J., Barkan R., Polzin K., Frajka-Williams E., Buckingham C. and Griffies S., Kinetic energy transfers between mesoscale and submesoscale motions, submitted to *Journal of Physical Oceanography*.
-3. **Yu X.**, Barkan, R., Naveira Garabato A. C., Enhanced submesoscale frontogenesis by convergent flows in the upper ocean, in preparation for *Geophysical Research Letters*. 
-2. Caspar-Cohen et al., Characterization of internal tide non-stationarity: Eulerian versus Lagrangian perspectives, in preparation. 
-1. Brasch et al., Frequency dependence of surface kinetic energy and its vertical structure from global high-resolution models and drifter observations, in preparation. 
+3. Caspar-Cohen Z., Ponte A. L., Lahaye N., Carton X., **Yu X.**, Le Gentil S., Characterization of internal tide non-stationarity: Eulerian versus Lagrangian perspectives, submitted to *Journal of Physical Oceanography*.
+2. Brasch et al., Frequency dependence of surface kinetic energy and its vertical structure from global high-resolution models and drifter observations, in preparation. 
+1. **Yu X.**, Barkan, R., Naveira Garabato A. C., Enhanced submesoscale frontogenesis by convergent flows in the upper ocean, in preparation.
+
 
 <!--
-3. **Yu X.** et al., The annual cycle of wind-generated near-inertial waves in the Northeast Atlantic, in preparation.
-2. Caspar-Cohen Z., Ponte A. L., Lahaye N., Carton X., **Yu X.**, Le Gentil S., Characterization of internal tide non-stationarity: Eulerian versus Lagrangian perspectives, in preparation. 
+for *Geophysical Research Letters*. 
+2. **Yu X.** et al., The annual cycle of internal tides and near-inertial waves in the Northeast Atlantic, in preparation.
 1. Brasch J. M., Arbic B. K., Elipot S., Menemenlis D., Ponte A. L., Shriver J. F., **Yu X.**, Zaron E. D., Alford, M. H., Buijsman M. C., Abernathey R., Martin P. E., Nelson A. D., Frequency dependence of surface kinetic energy and its vertical structure from global high-resolution models and drifter observations, in preparation for *Journal of Geophysical Research: Oceans*. 
 -->
 
