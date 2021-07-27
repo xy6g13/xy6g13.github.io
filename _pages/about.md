@@ -34,7 +34,7 @@ Education
 Work experience
 ======
 - Postdoc at Ifremer, France, 2018.04 - Present
-- I will move to [Sun Yat-Sen University](https://en.wikipedia.org/wiki/Sun_Yat-sen_University) in south China for a faculty postion in late 2021. 
+- I will move to [Sun Yat-Sen University](https://en.wikipedia.org/wiki/Sun_Yat-sen_University) in China for a faculty postion in late 2021. 
 
 
 ![me](Brest.jpeg)
