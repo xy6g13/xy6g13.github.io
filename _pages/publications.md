@@ -10,18 +10,15 @@ urlcolor: blue
 In progress
 ======
 
-5. Naveira Garabato A. C., **Yu X.**, Callies J., Barkan R., Polzin K., Frajka-Williams E., Buckingham C. and Griffies S., Kinetic energy transfers between mesoscale and submesoscale motions in the open ocean's upper layers, *Journal of Physical Oceanography*, revised.
-4. Caspar-Cohen Z., Ponte A. L., Lahaye N., Carton X., **Yu X.**, Le Gentil S., Characterization of internal tide non-stationarity: Eulerian versus Lagrangian perspectives, *Journal of Physical Oceanography*, under revision. [ESSOAr preprint](https://doi.org/10.1002/essoar.10506946.1)
-3. **Yu X.**, Ponte A. L., et al., Comparison of Eulerian and Lagrangian surface kinetic energy fields over the global oceans, in preparation.
-2. **Yu X.**, Barkan, R., et al., Enhanced submesoscale frontogenesis by convergent flows in the upper ocean, in preparation.
-1. **Yu X.**, Naveira Garabato A. C., et al., Observed equatorward propagation and chimney effect of near-inertial waves in the mid-latitude open ocean, in preparation.
-
+2. Naveira Garabato A. C., **Yu X.**, Callies J., Barkan R., Polzin K., Frajka-Williams E., Buckingham C. and Griffies S., Kinetic energy transfers between mesoscale and submesoscale motions in the open ocean's upper layers, *Journal of Physical Oceanography*, re-revised.
+1. Caspar-Cohen Z., Ponte A. L., Lahaye N., Carton X., **Yu X.**, Le Gentil S., Characterization of internal tide non-stationarity: Eulerian versus Lagrangian perspectives, *Journal of Physical Oceanography*, revised. [ESSOAr preprint](https://doi.org/10.1002/essoar.10506946.1)
 
 
 <!--
-1. Brasch J. M., Arbic B. K., Elipot S., Menemenlis D., Ponte A. L., Shriver J. F., **Yu X.**, Zaron E. D., Alford, M. H., Buijsman M. C., Abernathey R., Martin P. E., Nelson A. D., Frequency dependence of surface kinetic energy and its vertical structure from global high-resolution models and drifter observations, in preparation for *Journal of Geophysical Research: Oceans*. 
-
-1. **Yu X.**, Naveira Garabato A. C., Clément V., Wang J., Savage A. C., Mackinnon J. A., Waterhouse A. F.
+4. Brasch J. M., Arbic B. K., Elipot S., Menemenlis D., Ponte A. L., Shriver J. F., **Yu X.**, Zaron E. D., Alford, M. H., Buijsman M. C., Abernathey R., Martin P. E., Nelson A. D., Frequency dependence of surface kinetic energy and its vertical structure from global high-resolution models and drifter observations, in preparation. 
+3. **Yu X.**, Ponte A. L., et al., Comparison of Eulerian and Lagrangian surface kinetic energy fields over the global oceans, in preparation.
+2. **Yu X.**, Barkan, R., et al., Enhanced submesoscale frontogenesis by convergent flows in the upper ocean, in preparation.
+1. **Yu X.**, Naveira Garabato A. C., et al., Observed equatorward propagation and chimney effect of near-inertial waves in the mid-latitude open ocean, in preparation.
 -->
 
 
