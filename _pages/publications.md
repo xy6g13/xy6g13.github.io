@@ -10,7 +10,7 @@ urlcolor: blue
 In progress
 ======
 
-2. Naveira Garabato A. C., **Yu X.**, Callies J., Barkan R., Polzin K., Frajka-Williams E., Buckingham C. and Griffies S., Kinetic energy transfers between mesoscale and submesoscale motions in the open ocean's upper layers, *Journal of Physical Oceanography*, re-revised.
+
 1. Caspar-Cohen Z., Ponte A. L., Lahaye N., Carton X., **Yu X.**, Le Gentil S., Characterization of internal tide incoherence: Eulerian versus Lagrangian perspectives, *Journal of Physical Oceanography*, revised. [ESSOAr preprint](https://doi.org/10.1002/essoar.10508190.1)
 
 
@@ -25,6 +25,7 @@ In progress
 Published
 ======
 
+9. Naveira Garabato A. C., **Yu X.**, Callies J., Barkan R., Polzin K., Frajka-Williams E., Buckingham C. and Griffies S., Kinetic energy transfers between mesoscale and submesoscale motions in the open ocean's upper layers, *Journal of Physical Oceanography*, in press.
 8. **Yu X.**, Ponte A. L., Lahaye N., Caspar-Cohen Z. and Menemenlis D., [Geostrophy assessment and momentum balance of the global oceans in a tide- and eddy-resolving model](https://doi.org/10.1029/2021JC017422), **2021**, *Journal of Geophysical Research: Oceans*, 126(10), e2021JC017422. 
 7. **Yu X.**, Naveira Garabato A. C., Martin A. P. and Marshall D. P., [The annual cycle of upper-ocean potential vorticity and its relationship to submesoscale instabilities](https://doi.org/10.1175/JPO-D-20-0099.1), **2021**, *Journal of Physical Oceanography*, 51(2), 385-402. 
 6. Pan H., **Yu X.**, Liu D., Shi D., Yang S. and Pan W., [Marine environmental regionalization for the Beibu Gulf based on a physical-biological model](https://doi.org/10.3390/jmse9020187), **2021**, Journal of Marine Science and Engineering. 9(2):187. 
