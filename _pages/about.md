@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher of Laboratoire d'Océanographie Physique et Spatiale (LOPS) at Ifremer, Brest, France. Before that, I obtained my PhD in the University of Southampton, UK. 
+I am a postdoctoral researcher of Laboratoire d'Océanographie Physique et Spatiale (LOPS) at Ifremer, Brest, France. Before that, I obtained my PhD at the University of Southampton, UK. 
 
 With great enthusiasm for ocean observations, my research centers on upper-ocean processes. My interest is the motion at the submesoscale, and I mainly use observational data collected from moorings, drifting buoys, seagliders, and satellites.
 
 During my postdoc, I have been working on a SWOT-related project, in which we try to describe and improve our ability to disentangle internal waves and quasi-geostrophic motions. Outputs from tide- and eddy-resolving ocean models are used as our testbed. 
 
-I'm also putting more time now to understand fluid dynamics mathematically and theoretically, which I believe is essential for my long-term research career. 
 
 
 [//]: # (<img src="xyu.pdf" width="650"/>)
