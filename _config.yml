@@ -12,7 +12,7 @@ locale                   : "en-GB"
 title                    : “Xiaolong Yu”
 title_separator          : ""
 name                     : &name “Xiaolong Yu”
-description              : &description "I am a postdoc at Ifremer with a background of physical oceanography"
+description              : &description "I am a physical oceanographer at Sun Yat-sen University"
 url                      : https://xy6g13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xy6g13/xy6g13.github.io"
@@ -84,8 +84,8 @@ analytics:
 author:
   #name             : #"Xiaolong Yu"
   avatar           : "Photo_1.JPG"
-  bio              : "Postdoc at Ifremer"
-  location         : "Brest, France"
+  bio              : "Physical oceanographer at Sun Yat-sen University"
+  location         : "Zhuhai, China"
   employer         :
   email            : "xiaolong.yu@ifremer.fr"
   github           : "xy6g13"

@@ -7,12 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am an associate professor in physical oceanography at School of Marine Sciences, Sun Yat-Sen University (SYSU), China. Before that, I did postdoc research in Laboratoire d'Océanographie Physique et Spatiale (LOPS) at Ifremer, France, and I obtained my PhD at the University of Southampton, UK. 
 
-I am a postdoctoral researcher of Laboratoire d'Océanographie Physique et Spatiale (LOPS) at Ifremer, Brest, France. Before that, I obtained my PhD at the University of Southampton, UK. 
+With great enthusiasm for ocean observations, my research centers on upper-ocean dynamical processes. My interest is the motion at the submesoscale, and I mainly use observational data collected from moorings, drifting buoys, seagliders, and satellites.
 
-With great enthusiasm for ocean observations, my research centers on upper-ocean processes. My interest is the motion at the submesoscale, and I mainly use observational data collected from moorings, drifting buoys, seagliders, and satellites.
-
-During my postdoc, I have been working on a SWOT-related project, in which we try to describe and improve our ability to disentangle internal waves and quasi-geostrophic motions. Outputs from tide- and eddy-resolving ocean models are used as our testbed. 
+During my postdoc, I worked on a SWOT-related project, in which we try to describe and improve our ability to disentangle internal waves and quasi-geostrophic motions. Outputs from tide- and eddy-resolving ocean models are used as our testbed. 
 
 
 
@@ -33,7 +32,7 @@ Education
 Work experience
 ======
 - Postdoc at Ifremer, France, 2018.04 - 2021.10
-- I will move to [Sun Yat-Sen University](https://en.wikipedia.org/wiki/Sun_Yat-sen_University) (School of Marine Sciences, Zhuhai Campus) in China for a faculty postion in late 2021. 
+- Associate professor at Sun Yat-Sen University, China, 2021.12 - present 
 
 
 ![me](Brest.jpeg)
