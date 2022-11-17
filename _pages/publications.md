@@ -11,14 +11,15 @@ In progress
 ======
 
 1. **Yu X.**, Barkan R., Naveira Garabato A. C., Enhanced submesoscale frontogenesis by convergent flows in the upper ocean, in preparation.
-2. Arbic B. K., Elipot S., Jonathan M. B., Menemenlis D., Ponte A. L., Shriver J. F., **Yu X.**, Zaron E. D., Alford, M. H., Buijsman M. C., Abernathey R., Garcia D., Guan L., Martin P. E., Nelson A. D., Frequency dependence of near-surface oceanic kinetic energy from drifter observations and global high-resolution models, *Journal of Geophysical Research: Oceans*, revised. 
+
 
 
 
 
 Published
 ======
-11. **Yu X.**, Naveira Garabato A. C., Vic C., Gula J., MacKinnon J. A., Wang J., Savage A. C., Waterhouse A. F., [Observed equatorward propagation and chimney effect of near-inertial waves in the mid-latitude ocean](https://doi.org/10.1029/2022GL098522), **2022**, *Geophysical Research Letters*, 49(13), e2022GL098522(12P.). 
+13. Arbic B. K., Elipot S., Jonathan M. B., Menemenlis D., Ponte A. L., Shriver J. F., **Yu X.**, Zaron E. D., Alford, M. H., Buijsman M. C., Abernathey R., Garcia D., Guan L., Martin P. E., Nelson A. D., [Near-surface oceanic kinetic energy distributions from drifter observations and numerical models](https://doi. org/10.1029/2022JC018551), *Journal of Geophysical Research: Oceans*, 127, e2022JC018551(30p.). 
+11. **Yu X.**, Naveira Garabato A. C., Vic C., Gula J., MacKinnon J. A., Wang J., Savage A. C., Waterhouse A. F., [Observed equatorward propagation and chimney effect of near-inertial waves in the mid-latitude ocean](https://doi.org/10.1029/2022GL098522), **2022**, *Geophysical Research Letters*, 49(13), e2022GL098522(12p.). 
 10. Caspar-Cohen Z., Ponte A. L., Lahaye N., Carton X., **Yu X.**, Le Gentil S., [Characterization of internal tide incoherence: Eulerian versus Lagrangian perspectives](https://doi.org/10.1175/JPO-D-21-0088.1), *Journal of Physical Oceanography*, , 52(6), 1245-1259.
 9. Naveira Garabato A. C., **Yu X.**, Callies J., Barkan R., Polzin K., Frajka-Williams E., Buckingham C. and Griffies S., [Kinetic energy transfers between mesoscale and submesoscale motions in the open ocean's upper layers](https://doi.org/10.1175/JPO-D-21-0099.1), *Journal of Physical Oceanography*, 52(1), 75-97.
 8. **Yu X.**, Ponte A. L., Lahaye N., Caspar-Cohen Z. and Menemenlis D., [Geostrophy assessment and momentum balance of the global oceans in a tide- and eddy-resolving model](https://doi.org/10.1029/2021JC017422), **2021**, *Journal of Geophysical Research: Oceans*, 126(10), e2021JC017422(19p.). 
