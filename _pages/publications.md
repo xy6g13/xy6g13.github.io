@@ -7,17 +7,18 @@ classes: wide
 urlcolor: blue
 ---
 
-In progress
-======
-
-1. **Yu X.**, Barkan R., Naveira Garabato A. C., Enhanced submesoscale frontogenesis by convergent flows in the upper ocean, in preparation.
-
 
 
 
 
 Published
 ======
+
+18. **Yu X.**, Barkan R., Naveira Garabato A. C., 2024, Intensification of submesoscale frontogenesis and forward energy cascade driven by upper-ocean convergent flows, *Nature Communications*, 15, 9214.
+17. Chu F., **Yu X.**, Krokos G., Hoteit I., Asfahani K., Zhan P., 2024, Submesoscale processes in the northern Red Sea: Insights from underwater glider observations, *Journal of Geophysical Research: Oceans*, 129, e2024JC021052.
+16. Zhang Xinwen, **Yu X.**, Ponte A., Caspar-Cohen Z., Le Gentil S., Wang L.*, Gong W., 2024, Lagrangian versus Eulerian spectral estimates of surface kinetic energy over the global ocean, *Journal of Geophysical Research: Oceans*, 129, e2024JC021057.  
+15. Zhang Xiujie, **Yu X.**, Ponte A., Gong W., 2024, Effects of balanced motions and unbalanced internal waves on steric height in the mid-latitude ocean, *Geophysical Research Letters*, 51, e2023GL106480. 
+14. Liu L., **Yu X.**, Xue H., Xiu P., 2023, Reconstructability of open-ocean upper-layer dynamics from surface observations using surface quasigeostrophy (SQG) theory, *Journal of Geophysical Research: Oceans*, 128, e2023JC020124. 
 13. Arbic B. K., Elipot S., Jonathan M. B., Menemenlis D., Ponte A. L., Shriver J. F., **Yu X.**, Zaron E. D., Alford, M. H., Buijsman M. C., Abernathey R., Garcia D., Guan L., Martin P. E., Nelson A. D., [Near-surface oceanic kinetic energy distributions from drifter observations and numerical models](https://doi. org/10.1029/2022JC018551), *Journal of Geophysical Research: Oceans*, 127, e2022JC018551(30p.). 
 11. **Yu X.**, Naveira Garabato A. C., Vic C., Gula J., MacKinnon J. A., Wang J., Savage A. C., Waterhouse A. F., [Observed equatorward propagation and chimney effect of near-inertial waves in the mid-latitude ocean](https://doi.org/10.1029/2022GL098522), **2022**, *Geophysical Research Letters*, 49(13), e2022GL098522(12p.). 
 10. Caspar-Cohen Z., Ponte A. L., Lahaye N., Carton X., **Yu X.**, Le Gentil S., [Characterization of internal tide incoherence: Eulerian versus Lagrangian perspectives](https://doi.org/10.1175/JPO-D-21-0088.1), *Journal of Physical Oceanography*, , 52(6), 1245-1259.
